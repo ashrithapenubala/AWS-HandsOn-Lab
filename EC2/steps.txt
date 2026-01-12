@@ -1,0 +1,12 @@
+1. Launched an Amazon Linux EC2 instance using free tier.
+2. Assigned a public IPv4 address to the instance.
+3. Created and attached a Security Group.
+4. Allowed SSH (port 22) from my IP address.
+5. Allowed HTTP (port 80) from Anywhere (0.0.0.0/0).
+6. Connected to the instance using SSH.
+7. Installed and started Apache web server.
+8. Accessed the web server using the public IP.
+9. Verified the Apache default page was displayed successfully.
+
+Outcome:
+Hosted a publicly accessible web server on AWS EC2 and practiced instance management and security configuration.
